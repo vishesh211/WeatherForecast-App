@@ -12,5 +12,14 @@ This application also uses **Hilt & Dagger**, **ViewModel**, **Navigation** and 
 
 
 
-<img src="images/1656912167553.gif" width="300">                                                  
+<img src="images/1656912167553.gif" width="300">    
+
+
+<img src="images/1656907757619.jpg" width="200">                <img src="images/1656907757596.jpg" width="200">               <img src="images/1656907757571.jpg" width="200">
+
+
+<img src="images/1656907757544.jpg" width="200">                <img src="images/1656907757514.jpg" width="200">              <img src="images/1656907757485.jpg" width="200">
+
+
+<img src="images/1656907757451.jpg" width="200">
 
